@@ -1,1 +1,2 @@
-quoc anh seson 2 nè 
+quoc anh seson 2 nè
+thêm 
