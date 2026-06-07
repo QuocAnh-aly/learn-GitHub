@@ -1,0 +1,12 @@
+E:\docker\learn-GitHub\Backend\MyApp.Common\bin\Debug\net10.0\MyApp.Common.deps.json
+E:\docker\learn-GitHub\Backend\MyApp.Common\bin\Debug\net10.0\MyApp.Common.dll
+E:\docker\learn-GitHub\Backend\MyApp.Common\bin\Debug\net10.0\MyApp.Common.pdb
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.AssemblyInfoInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.AssemblyInfo.cs
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.csproj.CoreCompileInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.sourcelink.json
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.dll
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\refint\MyApp.Common.dll
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\MyApp.Common.pdb
+E:\docker\learn-GitHub\Backend\MyApp.Common\obj\Debug\net10.0\ref\MyApp.Common.dll

@@ -1,0 +1,12 @@
+E:\docker\learn-GitHub\Backend\MyApp.Libs\bin\Debug\net10.0\MyApp.Libs.deps.json
+E:\docker\learn-GitHub\Backend\MyApp.Libs\bin\Debug\net10.0\MyApp.Libs.dll
+E:\docker\learn-GitHub\Backend\MyApp.Libs\bin\Debug\net10.0\MyApp.Libs.pdb
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.GeneratedMSBuildEditorConfig.editorconfig
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.AssemblyInfoInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.AssemblyInfo.cs
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.csproj.CoreCompileInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.sourcelink.json
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.dll
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\refint\MyApp.Libs.dll
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\MyApp.Libs.pdb
+E:\docker\learn-GitHub\Backend\MyApp.Libs\obj\Debug\net10.0\ref\MyApp.Libs.dll

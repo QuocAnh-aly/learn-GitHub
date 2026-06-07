@@ -1,0 +1,16 @@
+E:\docker\learn-GitHub\Backend\MyApp.DTO\bin\Debug\net10.0\MyApp.DTO.deps.json
+E:\docker\learn-GitHub\Backend\MyApp.DTO\bin\Debug\net10.0\MyApp.DTO.dll
+E:\docker\learn-GitHub\Backend\MyApp.DTO\bin\Debug\net10.0\MyApp.DTO.pdb
+E:\docker\learn-GitHub\Backend\MyApp.DTO\bin\Debug\net10.0\MyApp.Common.dll
+E:\docker\learn-GitHub\Backend\MyApp.DTO\bin\Debug\net10.0\MyApp.Common.pdb
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.csproj.AssemblyReference.cache
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.AssemblyInfoInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.AssemblyInfo.cs
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.csproj.CoreCompileInputs.cache
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.sourcelink.json
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.csproj.Up2Date
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.dll
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\refint\MyApp.DTO.dll
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\MyApp.DTO.pdb
+E:\docker\learn-GitHub\Backend\MyApp.DTO\obj\Debug\net10.0\ref\MyApp.DTO.dll

@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="MyApp.ApiGateway/MyApp.ApiGateway.csproj" />
+  <Project Path="MyApp.APIService/MyApp.APIService.csproj" />
+  <Project Path="MyApp.AuditLog/MyApp.AuditLog.csproj" />
+  <Project Path="MyApp.AuthService/MyApp.AuthService.csproj" />
+  <Project Path="MyApp.Common/MyApp.Common.csproj" />
+  <Project Path="MyApp.DTO/MyApp.DTO.csproj" />
+  <Project Path="MyApp.Entities/MyApp.Entities.csproj" />
+  <Project Path="MyApp.IOTService/MyApp.IOTService.csproj" />
+  <Project Path="MyApp.Libs/MyApp.Libs.csproj" />
+  <Project Path="MyApp.LogService/MyApp.LogService.csproj" />
+  <Project Path="MyApp.Repository/MyApp.Repository.csproj" />
+  <Project Path="MyApp.Services/MyApp.Services.csproj" />
+  <Project Path="MyApp.UnitTest/MyApp.UnitTest.csproj" />
+</Solution>

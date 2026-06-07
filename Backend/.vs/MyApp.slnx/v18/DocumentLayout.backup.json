@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\docker\\learn-GitHub\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3647A113-C649-7D3B-6461-A8606E0254B3}|MyApp.Repository\\MyApp.Repository.csproj|e:\\docker\\learn-github\\backend\\myapp.repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3647A113-C649-7D3B-6461-A8606E0254B3}|MyApp.Repository\\MyApp.Repository.csproj|solutionrelative:myapp.repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|e:\\docker\\learn-github\\backend\\myapp.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|solutionrelative:myapp.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A87E58B-7A8B-F4FD-E4E6-9E25631E56AE}|MyApp.DTO\\MyApp.DTO.csproj|e:\\docker\\learn-github\\backend\\myapp.dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A87E58B-7A8B-F4FD-E4E6-9E25631E56AE}|MyApp.DTO\\MyApp.DTO.csproj|solutionrelative:myapp.dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A87E58B-7A8B-F4FD-E4E6-9E25631E56AE}|MyApp.DTO\\MyApp.DTO.csproj|e:\\docker\\learn-github\\backend\\myapp.dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A87E58B-7A8B-F4FD-E4E6-9E25631E56AE}|MyApp.DTO\\MyApp.DTO.csproj|solutionrelative:myapp.dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|e:\\docker\\learn-github\\backend\\myapp.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914D30E0-3AAF-1838-3FDC-1E250902C3C4}|MyApp.Services\\MyApp.Services.csproj|solutionrelative:myapp.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3647A113-C649-7D3B-6461-A8606E0254B3}|MyApp.Repository\\MyApp.Repository.csproj|e:\\docker\\learn-github\\backend\\myapp.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3647A113-C649-7D3B-6461-A8606E0254B3}|MyApp.Repository\\MyApp.Repository.csproj|solutionrelative:myapp.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C936A-FDEB-61D6-CDA1-7C14823D2FC1}|MyApp.Entities\\MyApp.Entities.csproj|e:\\docker\\learn-github\\backend\\myapp.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C936A-FDEB-61D6-CDA1-7C14823D2FC1}|MyApp.Entities\\MyApp.Entities.csproj|solutionrelative:myapp.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 511,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyApp.Services\\ProductService.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Services\\ProductService.cs",
+              "RelativeToolTip": "MyApp.Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:06:05.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MyApp.Services\\IProductService.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Services\\IProductService.cs",
+              "RelativeToolTip": "MyApp.Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:05:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.DTO\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "MyApp.DTO\\CreateProductDto.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.DTO\\CreateProductDto.cs",
+              "RelativeToolTip": "MyApp.DTO\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:57:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MyApp.DTO\\ProductDto.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.DTO\\ProductDto.cs",
+              "RelativeToolTip": "MyApp.DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:51:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.Repository\\IProductRepository.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Repository\\IProductRepository.cs",
+              "RelativeToolTip": "MyApp.Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:28:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp.Repository\\AppDbContext.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Repository\\AppDbContext.cs",
+              "RelativeToolTip": "MyApp.Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:26:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyApp.Entities\\Product.cs",
+              "ToolTip": "E:\\docker\\learn-GitHub\\Backend\\MyApp.Entities\\Product.cs",
+              "RelativeToolTip": "MyApp.Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:09:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

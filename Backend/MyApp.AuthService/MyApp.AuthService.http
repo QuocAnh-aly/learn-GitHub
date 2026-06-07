@@ -1,0 +1,6 @@
+@MyApp.AuthService_HostAddress = http://localhost:5032
+
+GET {{MyApp.AuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
